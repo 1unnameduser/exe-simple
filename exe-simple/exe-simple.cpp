@@ -7,7 +7,7 @@
 // если ini файла рядом с .exe не наблюдается, скрыто запускается .bat файл с тем же именем
 // имена файлов .bat, .ini должны совпадать с исполяемым
 // SimpleIni.h (https://github.com/brofield/simpleini) только для .GetValue
-// в конце переменные 
+// в конце переменные на всякий случай
 
 #include "SimpleIni.h"
 #include <windows.h> // Для ShellExecuteEx и GetModuleFileNameW
