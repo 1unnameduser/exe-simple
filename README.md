@@ -20,3 +20,5 @@
 // SimpleIni.h (https://github.com/brofield/simpleini) только для .GetValue
 
 // в конце переменные на всякий случай
+
+donation - https://pay.cloudtips.ru/p/381e5544
