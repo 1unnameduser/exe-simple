@@ -17,6 +17,8 @@
 
 // имена файлов .bat, .ini должны совпадать с исполяемым
 
+// для компиляции необходим [msys2](https://www.msys2.org/#installation)
+
 // SimpleIni.h (https://github.com/brofield/simpleini) только для .GetValue
 
 // в конце переменные на всякий случай
