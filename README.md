@@ -19,6 +19,6 @@
 
 // для компиляции необходим [msys2](https://www.msys2.org/#installation)
 
-// SimpleIni.h (https://github.com/brofield/simpleini) только для .GetValue
+// SimpleIni.h (https://github.com/brofield/simpleini, v4.25) только для .GetValue
 
 // в конце переменные на всякий случай
